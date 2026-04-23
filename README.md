@@ -1,4 +1,14 @@
 # Lab 16 — Reflexion Agent Scaffold
+## 🧾 Auto-grade Result
+![alt text]({CBC6467D-F2FB-4708-B222-B63BAB140117}.png)
+
+- Report file: `outputs/final_run/report.json`
+
+Total: 92/100  
+- Schema: 30/30 ✓  
+- Experiment: 30/30 ✓  
+- Analysis: 12/20 *(needs more trace-level evidence)*  
+- Bonus: 20/20 ✓  
 
 Repo này cung cấp một khung sườn (scaffold) để xây dựng và đánh giá **Reflexion Agent**.
 
@@ -40,13 +50,3 @@ python autograde.py --report-path outputs/sample_run/report.json
 - `run_benchmark.py`: Script chính để chạy đánh giá.
 - `autograde.py`: Công cụ hỗ trợ chấm điểm nhanh dựa trên report.
 
-## 🧾 Auto-grade Result
-![alt text]({CBC6467D-F2FB-4708-B222-B63BAB140117}.png)
-
-- Report file: `outputs/final_run/report.json`
-
-Total: 92/100  
-- Schema: 30/30 ✓  
-- Experiment: 30/30 ✓  
-- Analysis: 12/20 *(needs more trace-level evidence)*  
-- Bonus: 20/20 ✓  
